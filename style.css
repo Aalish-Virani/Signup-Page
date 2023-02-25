@@ -110,3 +110,10 @@ body{
     bottom: 200px;
     right: 50px;
 }
+
+@media screen and (max-width:1024px){
+ 
+    .outer-box{
+        padding-inline: 5%;
+    }
+}
